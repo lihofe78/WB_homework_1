@@ -13,6 +13,8 @@
 
 ![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/89c5577e-6fe1-4dcc-9235-61205fbf1cdc)
 
+3. Установить pandas,  numpy и 	jupyterlab в окружении
+
 ![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/4f2e89a9-05d1-4636-a86d-35d32d45d4cc)
 
 ![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/7502c1f7-133a-49df-ad7f-7e2259ddf7a4)
