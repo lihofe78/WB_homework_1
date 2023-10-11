@@ -13,6 +13,20 @@
 
 ![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/89c5577e-6fe1-4dcc-9235-61205fbf1cdc)
 
+![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/4f2e89a9-05d1-4636-a86d-35d32d45d4cc)
+
+![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/7502c1f7-133a-49df-ad7f-7e2259ddf7a4)
+
+![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/84f24ff6-1de3-4323-9b96-7c29fedd3506)
+
+4. Запустить jupyter notebook и написать скрипт на питон выводящий версии установленных библиотек 
+![image](https://github.com/lihofe78/WB_homework_1/assets/56295103/6f2ffc6c-0e03-49cf-bd5e-f9532db4b42e)
+
+
+
+
+
+
 
 
 
